@@ -1,3 +1,5 @@
+# Building HIPAA Compliant End-to-End Encrypted Chat with Stream React Chat and Virgil Security
+
 As healthcare technology advances, secure real-time communication is becoming increasingly crucial to any modern healthcare application. It's essential to provide the technology experiences patients expect while protecting their privacy and healthcare data. Chat messages often contain protected health
 information (PHI), so you must consider end-to-end encryption when building chat into your application.
 
