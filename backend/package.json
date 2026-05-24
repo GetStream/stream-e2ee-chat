@@ -27,7 +27,7 @@
     "helmet": "^3.21.1",
     "md5": "^2.2.1",
     "stream-chat": "^1.1.0",
-    "uuid": "^3.3.3",
+    "uuid": "^14.0.0",
     "virgil-crypto": "3.2.6",
     "virgil-sdk": "^5.3.0"
   },
