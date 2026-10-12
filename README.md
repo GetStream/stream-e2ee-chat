@@ -1,3 +1,5 @@
+> **This repository is archived and no longer maintained.** For a current alternative, see [react-end-to-end-encrypted-chat](https://github.com/GetStream/react-end-to-end-encrypted-chat).
+
 # Building HIPAA Compliant End-to-End Encrypted Chat with Stream React Chat and Virgil Security
 
 As healthcare technology advances, secure real-time communication is becoming increasingly crucial to any modern healthcare application. It's essential to provide the technology experiences patients expect while protecting their privacy and healthcare data. Chat messages often contain protected health
